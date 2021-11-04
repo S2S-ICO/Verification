@@ -1,4 +1,4 @@
-# S2S Verification Tool
+# S2S Verification Tools
 
 ## 1. Overview
 General introduction to S2S Verification tools described here!
