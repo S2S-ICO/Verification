@@ -34,8 +34,8 @@ Verification(Parameter,...)
 Please use the "Issues" tab at the top to request issues that need to be addressed.
 
 ## 6. Contributors & Acknowledgements
-Contributors who provides  
-Acknowledgement about verification method
+(Contributors and relevant Acknowledgements will be listed here!)
+
 
 ## 7. How to cite
 [Verification] : Climate Action Reserve
