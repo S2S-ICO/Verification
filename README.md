@@ -13,10 +13,10 @@
 ## 3. Installation Instructions
 (Detailed guide to install program codes will be described here!)
 
-See the "[Wiki]" tab for detailed instructions
-
 example)
-It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
+(1) See the "[Manual]" for detailed instructions
+
+(2) It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
 ```sh
 conda env create -f iri-dev.yml
 ```
@@ -45,5 +45,5 @@ Any claims against the Institute stemming from the use of any GitHub-related pro
 
 
 
-  [Wiki]: https://www.climateactionreserve.org/wp-content/uploads/2021/02/Verification_Program_Manual_February_2021.pdf
+  [Manual: https://www.climateactionreserve.org/wp-content/uploads/2021/02/Verification_Program_Manual_February_2021.pdf
   [Verification]: https://www.climateactionreserve.org/how/verification/verification-program-manual/
