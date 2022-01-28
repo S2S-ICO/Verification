@@ -1,16 +1,18 @@
 # S2S Verification Tools
 
 ## 1. Overview
-(General introduction for the program codes will be described here!)
+(General introduction for program codes will be described here!)
 
 ## 2. Contents
-(Contents that are contained in the program codes will be described here!)
+(Contents that are contained in program codes will be described here!)
 
 > (1) Deterministic </br>
 > (2) Probabilistic </br>
 > (3) and so forth
 
 ## 3. Installation Instructions
+(Detailed guide to install program codes will be described here!)
+
 See the "[Wiki]" tab for detailed instructions
 
 example)
