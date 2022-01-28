@@ -1,7 +1,7 @@
 # S2S Verification Tools
 
 ## 1. Overview
-General introduction to S2S Verification tools described here!
+(General introduction for the program codes will be described here!)
 
 ## 2. Contents
 > (1) Deterministic </br>
