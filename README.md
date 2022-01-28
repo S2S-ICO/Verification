@@ -46,5 +46,5 @@ Any claims against the Institute stemming from the use of any GitHub-related pro
 
 
 
-  [Manual: https://www.climateactionreserve.org/wp-content/uploads/2021/02/Verification_Program_Manual_February_2021.pdf
+  [Manual]: https://www.climateactionreserve.org/wp-content/uploads/2021/02/Verification_Program_Manual_February_2021.pdf
   [Verification]: https://www.climateactionreserve.org/how/verification/verification-program-manual/
