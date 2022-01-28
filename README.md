@@ -14,6 +14,7 @@
 (Detailed guide to install program codes will be described here!)
 
 example)
+
 (1) See the "[Manual]" for detailed instructions
 
 (2) It might be useful --but not at all required-- to use the provided iri-dev.yml conda environment file. If so, just follow the usual approach:
