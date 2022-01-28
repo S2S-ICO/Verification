@@ -35,10 +35,14 @@ Verification(Parameter,...)
 Please use the "Issues" tab at the top to request issues that need to be addressed.
 
 ## 6. Contributors & Acknowledgements
-(Contributors and relevant Acknowledgements will be listed here!)
+(Contributors and relevant Acknowledgements for program codes will be listed here!)
 
 
 ## 7. How to cite
+(Citation for program codes will be listed here!)
+
+example)
+
 [Verification] : Climate Action Reserve
 
 ## 8. Disclaimer
