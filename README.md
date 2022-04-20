@@ -1,4 +1,4 @@
-# MJO Diagnostics Tools
+# Verification Tools
 
 ## 1. Overviews
 ### [1] climpred: Verification of weather and climate forecasts
